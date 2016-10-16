@@ -1,0 +1,16 @@
+{
+  "name": "webgl-heatmap-leaflet",
+  "description": "WebGL Heatmap Library for Leaflet",
+  "main": ["js/webgl-heatmap.js","js/webgl-heatmap-leaflet.js"],
+  "authors": [
+    "Ursudio"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "heatmap",
+    "webgl",
+    "leaflet"
+  ],
+  "homepage": "https://github.com/probr/webgl-heatmap-leaflet",
+  "private": true
+}
